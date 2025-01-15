@@ -1,4 +1,4 @@
-<img src="https://komarev.com/ghpvc/?username=MustDie-green&style=flat-square&color=gray" alt=""/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustDie-green&layout=compact&hide_progress=true&theme=nord" alt=""/>
 
 <div id="badges"  align="left">
 <a href="https://www.linkedin.com/in/valerii-arzhanov-429744216/"><img src="https://img.shields.io/badge/LinkedIn-gray?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -32,10 +32,10 @@ Zdarova
 - :ru: Russian (native)
 - :uk: English (B2)
 
-<!-- 
-## :bar_chart: GitHub stats
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thebellhead&theme=dark&background=000000)](https://git.io/streak-stats)
+<div id="badge"  align="left">
+<img src="https://komarev.com/ghpvc/?username=MustDie-green&style=flat-square&color=gray" alt=""/>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thebellhead&hide=jupyter%20notebook,tex,postscript,vim%20script,html,css&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
--->
+
