@@ -1,9 +1,5 @@
 <img src="https://komarev.com/ghpvc/?username=MustDie-green&style=flat-square&color=gray" alt=""/>
 
-<div id="header" align="left">
-<img src="https://avatars.githubusercontent.com/u/84462376?v=4" width="250"/>
-</div>
-
 <div id="badges"  align="left">
 <a href="https://www.linkedin.com/in/valerii-arzhanov-429744216/"><img src="https://img.shields.io/badge/LinkedIn-gray?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 <a href="https://career.habr.com/mustdieee"><img src="https://img.shields.io/badge/Habr-gray?style=for-the-badge&logo=habr&logoColor=white" alt="Habr Badge"/></a>
