@@ -14,18 +14,24 @@
 Zdarova
 </h1>
 
-<div align="left">Antifraud Data Analyst-Dev at Yandex. Musician, singer, DIY-enthusiast.</div>
+<div align="left">Antifraud Data Analyst-Dev. 
+  
+  Ex Yandex, Avito.
+  
+  Musician, singer, DIY-enthusiast.</div>
 
 ## :briefcase: Work experience
 
-- [ ] *Mar 23 - now:* Antifraud Data Analyst-Dev as [Yandex](https://ya.ru/)
+- [x] *May 23 - Nov 25:* Antifraud Data Analyst at [Avito](https://www.avito.ru/)
+- [x] *Mar 23 - May 25:* Antifraud Data Analyst-Dev at [Yandex](https://ya.ru/)
 - [x] *Aug 22 - Mar 23:* Data\Product Analyst at [LittleBit](https://littlebit.games/) 
 
 ## :computer: Hard skills
-- Python, Lua, R, bash/zsh, cron
-- SQL, pgSQL, Clickhouse, SQLite, BigQuery
-- Yandex Datalense, Supserset, Matplotlib, ggplot2
-- Statistics, AB-testing, research
+- Python, Lua, R, bash/zsh, Go
+- Docker, AirFlow, cron
+- SQL, pgSQL, Clickhouse, SQLite, BigQuery, Vertica, PrestoSQL/Trino
+- Yandex Datalens, Redash, Supserset, Matplotlib
+- Statistics, Machine Learning, AB-testing, research
 
 ## :globe_with_meridians: Natural languages
 
